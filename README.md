@@ -26,7 +26,7 @@ We created 11 variants of our dataset, each with either Downsampling or Upsampli
 ## Feature Extraction:
 ###  Classical  features:
 Sometimes , we used ***SMOTE*** to oversampling features to solve the problem of overfitting
-* Tf-Idf 
+* TF-IDF 
 * N-gram
 ## Trainable features/embeddings:
 * Word2Vec: CBOW using gensim models.
@@ -64,7 +64,7 @@ Train 10   | 0.588    | .438      |
 Train 11   | 0.522    |0.392      |
 
 
-# Some Results
+# EXtra Results
 
 ### Features: TF-IDF Features
 
